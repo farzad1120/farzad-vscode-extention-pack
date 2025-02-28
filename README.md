@@ -2,12 +2,12 @@
 
 ## JS/TS Development Extention Pack
 
-This pack is for JS and TS Development used by **Farzad M. Zarasvand**.
+This pack is for JS and TS Development.
 
 ## Contact
 
-- Email: [me@fz1.ir](mailto:me@fz1.ir)
-- Website: [fz1.ir](https://fz1.ir)
+- Email: [iam@farzad.eu](mailto:iam@farzad.eu)
+- Website: [farzad.eu](https://farzad.eu)
 
 ## Installation
 
