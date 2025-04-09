@@ -1,6 +1,6 @@
 # README
 
-## JS/TS Development Extention Pack
+## JS/TS Development Extension Pack
 
 This pack is for JS and TS Development.
 
@@ -13,6 +13,6 @@ This pack is for JS and TS Development.
 
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
-`ext install zarasvand.farzad-extention-pack`
+`ext install zarasvand.farzad-extenstion-pack`
 
 **Enjoy!**

@@ -1,8 +1,8 @@
 {
-  "name": "farzad-extention-pack",
-  "displayName": "JS - TS Extention Pack",
-  "description": "Extentions Recommented by Farzad Zarasvand for JavaScript and TypeScript Developers.",
-  "version": "1.5.0",
+  "name": "farzad-extension-pack",
+  "displayName": "JS - TS Extension Pack",
+  "description": "Extensions Recommented by Farzad Zarasvand for JavaScript and TypeScript Developers.",
+  "version": "1.5.1",
   "engines": {
     "vscode": "^1.49.0"
   },
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/farzad1120/farzad-vscode-extention-pack"
+    "url": "https://github.com/farzad1120/farzad-vscode-extension-pack"
   },
   "homepage": "https://farzad.eu",
   "icon": "assets/code-128.png",
